@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Test Model",
+    "owner": "Bhaskar C",
+    "description": "A quick test of the tool"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "John D"
+  }
+}
